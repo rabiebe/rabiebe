@@ -1,4 +1,4 @@
-<center><a  href="#"><img width="50%" height="auto" src="undraw_version_control_re_mg66.svg" height="170px"/></a></center>
+<div align="center"><a  href="#"><img width="50%" height="auto" src="undraw_version_control_re_mg66.svg" height="170px"/></a></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rabie</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
