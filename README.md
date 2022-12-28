@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working as Omniyat
+- 🔭 I'm currently working as front end developer
 
 - 🌱 I’m currently learning **Spring Boot and React**
 
