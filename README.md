@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently preparing for the first job in **[Upwork](https://www.upwork.com/)**
+- 🔭 I'm currently working as **[Omniyat]
 
 - 🌱 I’m currently learning **Spring Boot and React**
 
