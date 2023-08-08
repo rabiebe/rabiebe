@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working as front-end developer
 
-- 🌱 I’m currently learning **Asp.net Core**
+- 🌱 I’m currently learning **NodeJS & ReactJS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
