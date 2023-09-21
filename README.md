@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working as front-end developer
+- 🔭 I'm currently working as full-stack developer
 
 - 🌱 I’m currently learning **NodeJS & ReactJS**
 
