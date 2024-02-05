@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working as a full-stack developer
 
-- 🌱 I’m currently learning **NodeJS & ReactJS**
+- 🌱 I’m currently learning **.Asp.net core & Angular**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -19,7 +19,9 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left">
+    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dot-net.png"/> </a> 
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
