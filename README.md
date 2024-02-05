@@ -20,7 +20,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://icons8.com/icon/1BC75jFEBED6/.net-framework"/> </a> 
+    <a href="https://dotnet.microsoft.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> </a> 
     <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
