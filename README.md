@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working as a full-stack developer
 
-- 🌱 I’m currently learning **.Asp.net core & Angular**
+- 🌱 I’m currently learning **Asp.net core & Angular**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
