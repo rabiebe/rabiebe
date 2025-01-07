@@ -1,5 +1,5 @@
 <div align="center"><a href="#"><img width="50%" height="auto" src="undraw_version_control_re_mg66.svg" height="170px"/></a></div> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rabie BELKAIDA</h1> <h3 align="center">I'm a skilled Full Stack Developer from Morocco with over 3 years of experience.</h3>
-## 🙋‍♂️ About Me
+##🙋‍♂️ About Me
 
 🔭 Currently working on a soccer reservation mobile app using React Native and Laravel.
 
