@@ -13,7 +13,7 @@
 
 - 💼 With expertise in microservices, RESTful APIs, and cloud integration, I aim to develop innovative, scalable solutions.
 
-- 📫 How to reach me **rabiebelkaida@gmail.com**
+- 📫 How to reach me **rabiebelkaida.dev@gmail.com**
 
 - ⚡ Fun fact **I play chess and go to the gym regularly!**
 
