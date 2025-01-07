@@ -20,7 +20,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <!-- Programming -->
     <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/net-framework.png" alt="ASP.NET Core"/> </a> 
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/> </a> 
@@ -28,26 +27,18 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/> </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/> </a>
-
-    <!-- Web & Mobile Development -->
     <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/> </a> 
-
-    <!-- Databases & ORMs -->
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/mysql-logo.png" alt="MySQL"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/> </a> 
     <a href="https://hibernate.org/" target="_blank"> <img src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate"/> </a>
     <a href="https://learn.microsoft.com/en-us/ef/" target="_blank"> <img src="https://img.icons8.com/color/48/entity-framework.png" alt="Entity Framework"/> </a> 
-
-    <!-- Cloud & DevOps -->
     <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="Amazon S3"/> </a> 
     <a href="https://www.exoscale.com/" target="_blank"> <img src="https://img.icons8.com/color/48/cloud.png" alt="Exoscale"/> </a> 
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/git.png" alt="Git"/> </a> 
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/> </a> 
-
-    <!-- Tools -->
     <a href="https://swagger.io/" target="_blank"> <img src="https://img.icons8.com/color/48/swagger.png" alt="Swagger"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/> </a> 
