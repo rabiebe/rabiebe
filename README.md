@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-- 📫 How to reach me **rabiebelkaida@gmail.com**
+- 📫 How to reach me **rabiebelkaida.dev@gmail.com**
 
 - ⚡ Fun fact **I play Logical games and go to the GYM very often.**
 
