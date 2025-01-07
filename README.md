@@ -1,26 +1,82 @@
-<div align="center"><a href="#"><img width="50%" height="auto" src="undraw_version_control_re_mg66.svg" height="170px"/></a></div> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rabie BELKAIDA</h1> <h3 align="center">I'm a skilled Full Stack Developer from Morocco with over 3 years of experience.</h3>
-##🙋‍♂️ About Me
+<div align="center"><a  href="#"><img width="50%" height="auto" src="undraw_version_control_re_mg66.svg" height="170px"/></a></div>
 
-🔭 Currently working on a soccer reservation mobile app using React Native and Laravel.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rabie</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
 
-🌱 I’m deepening my knowledge in React.js and state management.
 
-👯 I’m open to collaborating on freelance or OpenSource projects.
+## 🙋‍♂️ About Me
 
-💼 With expertise in microservices, RESTful APIs, and cloud integration, I aim to develop innovative, scalable solutions.
+- 🔭 I'm currently working as a full-stack developer
 
-📫 How to reach me rabiebelkaida.dev@gmail.com
+- 🌱 I’m currently learning **React JS**
 
-⚡ Fun fact I play chess and go to the gym regularly!
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+
+- 📫 How to reach me **rabiebelkaida.dev@gmail.com**
+
+- ⚡ Fun fact **I play Logical games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
-<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/net-framework.png" alt="ASP.NET Core"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/mysql-logo.png" alt="MySQL"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/git.png" alt="Git"/> </a> <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="Amazon S3"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/> </a> </p>
-## 📊 My Github Stats
-<br/> <a href="https://github.com/rabiebe/github-readme-stats"><img alt="Rabie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rabiebe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/rabiebe/github-readme-stats"><img alt="Rabie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiebe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/> <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level. <br/>
-<a href="https://github.com/rabiebe/github-readme-activity-graph"><img alt="Rabie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rabiebe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="left">
+    <a href="https://dotnet.microsoft.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/> </a> 
+    <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://hibernate.org/" target="_blank"> <img style="width:48px;height:48px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffruzenshtein.com%2Fwp-content%2Fuploads%2F2014%2F01%2FHibernate-logo.png&f=1&nofb=1"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a> 
+    <a href="https://www.notion.so/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/> </a>
+    <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="express" width="48" height="48"/> </a>
+
+</p>
 
 <br/>
-Connect with me:
-<p align="left"> <a href="https://www.linkedin.com/in/rabie-belkaida/"><img src="https://img.icons8.com/fluent/48/linkedin.png"/></a> <a href="https://twitter.com/r_belkaida"><img src="https://img.icons8.com/fluent/48/twitter.png"/></a> <a href="https://www.instagram.com/belpublisher/"><img src="https://img.icons8.com/fluent/48/instagram-new.png"/></a> <a href="https://www.youtube.com/channel/UCuSc8AMU8_jMtt-KIJCwLCw"><img src="https://img.icons8.com/color/48/youtube-play.png"/></a> </p>
+
+<p align="center">
+    <a href="https://github.com/rabiebe/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rabiebe streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiebe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/rabiebe/github-readme-stats"><img alt="rabiebe Github Stats" src="https://github-readme-stats.vercel.app/api?username=rabiebe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/rabiebe/github-readme-stats"><img alt="rabiebe Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiebe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/rabiebe/github-readme-activity-graph"><img alt="rabiebe Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rabiebe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 ## Connect with me:
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=rabiebe"> </a> <a href="https://github.com/rabiebe?tab=followers"><img src="https://img.shields.io/github/followers/rabiebe?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/rabie-belkaida/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/r_belkaida"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/belpublisher/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UCuSc8AMU8_jMtt-KIJCwLCw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rabiebe">
+</a>
+<a href="https://github.com/rabiebe?tab=followers"><img src="https://img.shields.io/github/followers/rabiebe?label=Followers&style=social" alt="GitHub Badge"></a>
