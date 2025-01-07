@@ -33,13 +33,11 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/mysql-logo.png" alt="MySQL"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/> </a> 
     <a href="https://hibernate.org/" target="_blank"> <img src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate"/> </a>
-    <a href="https://learn.microsoft.com/en-us/ef/" target="_blank"> <img src="[https://img.icons8.com/color/48/entity-framework.png](https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB-300x300.png)" alt="Entity Framework"/> </a> 
     <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="Amazon S3"/> </a> 
     <a href="https://www.exoscale.com/" target="_blank"> <img src="https://img.icons8.com/color/48/cloud.png" alt="Exoscale"/> </a> 
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/git.png" alt="Git"/> </a> 
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/> </a> 
-    <a href="https://swagger.io/" target="_blank"> <img src="https://img.icons8.com/color/48/swagger.png" alt="Swagger"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/> </a> 
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/> </a> 
