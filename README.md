@@ -43,18 +43,6 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/> </a> 
 </p>
 
-## 📊 My Github Stats
-
-<br/>
-<a href="https://github.com/rabiebe/github-readme-stats"><img alt="Rabie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rabiebe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/rabiebe/github-readme-stats"><img alt="Rabie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiebe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
-
-<br/>
-
-<a href="https://github.com/rabiebe/github-readme-activity-graph"><img alt="Rabie's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rabiebe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 
 ## Connect with me:
