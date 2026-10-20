@@ -1,60 +1,89 @@
-<div align="center"><a href="#"><img width="50%" height="auto" src="undraw_version_control_re_mg66.svg" height="170px"/></a></div>
+<h1 align="center">Rabie BELKAIDA</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rabie BELKAIDA</h1>
-<h3 align="center">I'm a skilled Full Stack Developer from Morocco with over 3 years of experience.</h3>
-
-## 🙋‍♂️ About Me
-
-- 🔭 Currently working on a **soccer reservation mobile app** using React Native and Laravel.
-
-- 🌱 I’m deepening my knowledge in **React.js** and **state management**.
-
-- 👯 I’m open to collaborating on **freelance or OpenSource projects**.
-
-- 💼 With expertise in microservices, RESTful APIs, and cloud integration, I aim to develop innovative, scalable solutions.
-
-- 📫 How to reach me **rabiebelkaida.dev@gmail.com**
-
-- ⚡ Fun fact **I play chess and go to the gym regularly!**
-
-## 🚀 Languages and Tools:
-
-<p align="left">
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/net-framework.png" alt="ASP.NET Core"/> </a> 
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/> </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/> </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/> </a>
-    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/mysql-logo.png" alt="MySQL"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/> </a> 
-    <a href="https://hibernate.org/" target="_blank"> <img src="https://img.icons8.com/color/48/hibernate.png" alt="Hibernate"/> </a>
-    <a href="https://aws.amazon.com/s3/" target="_blank"> <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="Amazon S3"/> </a> 
-    <a href="https://www.exoscale.com/" target="_blank"> <img src="https://img.icons8.com/color/48/cloud.png" alt="Exoscale"/> </a> 
-    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/git.png" alt="Git"/> </a> 
-    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/jenkins.png" alt="Jenkins"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/> </a> 
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/> </a> 
+<p align="center">
+  <b>Développeur .NET Back-end</b><br/>
+  Clean Architecture · CQRS · DDD<br/>
+  Casablanca, Maroc · 4 ans d'expérience
 </p>
 
-<br/>
+---
 
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/rabie-belkaida/"><img src="https://img.icons8.com/fluent/48/linkedin.png"/></a>
-<a href="https://twitter.com/r_belkaida"><img src="https://img.icons8.com/fluent/48/twitter.png"/></a>
-<a href="https://www.instagram.com/belpublisher/"><img src="https://img.icons8.com/fluent/48/instagram-new.png"/></a>
-<a href="https://www.youtube.com/channel/UCuSc8AMU8_jMtt-KIJCwLCw"><img src="https://img.icons8.com/color/48/youtube-play.png"/></a>
+## À propos
+
+Je conçois et développe des API .NET en production depuis quatre ans : **ASP.NET Core**, **EF Core**, **SQL Server**.
+
+Depuis plusieurs mois, je structure mes projets en **Clean Architecture** avec **CQRS**.
+Pour comparer objectivement les approches, j'ai construit **le même domaine deux fois** :
+en N-Tier classique et en Clean Architecture — avec la même logique métier et les mêmes endpoints.
+
+- 🔭 En cours : [`dotnet-architecture-samples`](https://github.com/rabiebe/dotnet-architecture-samples)
+- 🌱 J'approfondis : DDD (agrégats, value objects), CQRS avancé, tests d'intégration
+- 💬 Je réponds volontiers sur : Clean Architecture, EF Core, conception d'API REST
+- 📫 Contact : **rabiebelkaida.dev@gmail.com**
+
+---
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-.NET%209-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-API-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediatR-CQRS-2F74C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/xUnit-tests-512BD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=rabiebe">
-</a>
-<a href="https://github.com/rabiebe?tab=followers"><img src="https://img.shields.io/github/followers/rabiebe?label=Followers&style=social" alt="GitHub Badge"></a> 
+---
+
+## Projets
+
+### 🏛️ [dotnet-architecture-samples](https://github.com/rabiebe/dotnet-architecture-samples)
+
+Le même domaine construit **deux fois** : en **N-Tier** et en **Clean Architecture + CQRS**.
+
+Comparaison détaillée, code source des deux solutions, tests unitaires,
+et documentation de construction pas à pas.
+
+`ASP.NET Core` · `EF Core` · `MediatR` · `xUnit` · `SQL Server`
+
+---
+
+### 🗓️ [ReservationApp](https://github.com/rabiebe/ReservationApp)
+
+Application full-stack de réservation : API **ASP.NET Core** côté serveur et client séparé.
+
+`ASP.NET Core` · `EF Core` · `SQL Server`
+
+---
+
+### 👥 [EmployeeManagement](https://github.com/rabiebe/EmployeeManagement)
+
+API REST de gestion des employés, organisée en contrôleurs, DTO et couche d'accès aux données.
+
+`ASP.NET Core` · `EF Core` · `SQL Server`
+
+---
+
+### 🔐 [JwtAuthDemo](https://github.com/rabiebe/JwtAuthDemo)
+
+Authentification **JWT** dans une API ASP.NET Core : émission du token, validation, endpoints protégés.
+
+`ASP.NET Core` · `JWT` · `Sécurité`
+
+---
+
+## Ce que je cherche
+
+Un poste de **développeur .NET back-end** où l'architecture compte :
+Clean Architecture, DDD, CQRS, qualité du code et revue technique.
+
+---
+
+<p align="center">
+  <a href="mailto:rabiebelkaida.dev@gmail.com">Email</a> ·
+  <a href="https://github.com/rabiebe">GitHub</a>
+</p>
