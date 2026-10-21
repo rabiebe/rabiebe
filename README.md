@@ -21,33 +21,8 @@ I currently work as a freelance Full Stack Developer for **CEGEDIM** (Rabat), ma
 
 Before that, I worked on e-commerce features (2024–2025), management applications at **OMNIYAT** (2022–2024) — inventory, transport, EDI data synchronization — and a cash management application with an SSO module at **Value IT** (2020–2021).
 
----
-
-## Featured project
-
-### 🏛️ [dotnet-architecture-samples](https://github.com/rabiebe/dotnet-architecture-samples)
-
-The same domain implemented **twice**, to compare two architectural approaches on equal ground:
-
-| | N-Tier | Clean Architecture + CQRS |
-|---|---|---|
-| Layers | API → Services → Data | Domain · Application · Infrastructure · API |
-| Business rules | Service layer | Domain + handlers |
-| Dependencies | Point downward | Point **inward** (Dependency Inversion) |
-| Tests | 7 | 12 |
-
-What the repository contains:
-
-- Two complete, runnable ASP.NET Core solutions on .NET 9
-- EF Core with SQL Server, migrations, and repository implementations
-- CQRS with MediatR: commands, queries, validation pipeline
-- Unit tests for both architectures
-- A **step-by-step build document** for each solution: every file, every decision, in order
-
-I built it to answer a question I kept hearing in interviews: *"N-Tier or Clean Architecture — and why?"*
-Having both versions side by side makes the trade-offs concrete instead of theoretical.
-
-`ASP.NET Core` · `EF Core` · `MediatR` · `xUnit` · `SQL Server`
+What I care about: business rules that live in the domain instead of leaking into controllers,
+dependencies that point inward, and code that can be tested without a database.
 
 ---
 
@@ -86,5 +61,6 @@ Having both versions side by side makes the trade-offs concrete instead of theor
 ---
 
 <p align="center">
-  <i>This profile is curated: only projects that meet my own quality bar stay public.</i>
+  <i>Most of my work belongs to clients and employers, and stays in private repositories.
+  This profile reflects that — not an absence of work.</i>
 </p>
